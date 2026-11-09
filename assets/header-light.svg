@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">jie — From bits to motion.</title>
+  <desc id="desc">Embedded systems, robotics and vision. A circuit-inspired illustration connects sensing, control and motion.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#C3D7D0" stroke-opacity=".24"/></pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#F2F7F5"/><stop offset="1" stop-color="#E7F1ED"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="358" rx="22" fill="url(#fade)" stroke="#BDD3CB"/>
+  <path d="M800 1H1258Q1279 1 1279 22V338Q1279 359 1258 359H800Z" fill="url(#grid)"/>
+  <circle cx="1080" cy="178" r="145" stroke="#E4EEE9" stroke-width="32"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <rect x="52" y="47" width="5" height="17" rx="2.5" fill="#087C62"/>
+    <text x="72" y="61" fill="#58756E" font-size="14" font-weight="600" letter-spacing="3">XIAOSHUAIJIE / ENGINEERING NOTES</text>
+    <text x="50" y="151" fill="#143B37" font-size="76" font-weight="700" letter-spacing="-3">From bits</text>
+    <text x="50" y="231" fill="#087C62" font-size="76" font-weight="700" letter-spacing="-3">to motion.</text>
+    <text x="54" y="275" fill="#58756E" font-size="17" letter-spacing="1">EMBEDDED SYSTEMS · ROBOTICS · VISION</text>
+    <path d="M54 305H444" stroke="#BDD3CB"/>
+    <text x="54" y="330" fill="#58756E" font-size="11" letter-spacing="2">BUILD / DEBUG / UNDERSTAND / SHARE</text>
+  </g>
+  <g stroke="#BDD3CB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M638 103H690L720 133H783"/>
+    <path d="M642 178H783"/>
+    <path d="M638 253H690L720 223H783"/>
+    <path d="M965 178H1040L1075 143H1166"/>
+    <path d="M965 203H1015L1065 253H1189"/>
+    <path d="M874 97V60H1010"/>
+    <path d="M874 259V298H1008"/>
+  </g>
+  <g fill="#E7F1ED" stroke="#087C62" stroke-width="2">
+    <rect x="783" y="97" width="182" height="162" rx="20"/>
+    <rect x="804" y="118" width="140" height="120" rx="12" stroke="#BDD3CB"/>
+    <circle cx="638" cy="103" r="5"/><circle cx="642" cy="178" r="5"/><circle cx="638" cy="253" r="5"/>
+    <circle cx="1166" cy="143" r="5"/><circle cx="1189" cy="253" r="5"/>
+    <circle cx="1010" cy="60" r="4"/><circle cx="1008" cy="298" r="4"/>
+  </g>
+  <g stroke="#087C62" stroke-width="2" stroke-linecap="round">
+    <path d="M809 85V97M835 85V97M861 85V97M887 85V97M913 85V97M939 85V97"/>
+    <path d="M809 259V271M835 259V271M861 259V271M887 259V271M913 259V271M939 259V271"/>
+    <path d="M771 126H783M771 152H783M771 178H783M771 204H783M771 230H783"/>
+    <path d="M965 126H977M965 152H977M965 178H977M965 204H977M965 230H977"/>
+    <path d="M827 191H842L854 159L870 204L885 171L895 191H922" stroke-width="3"/>
+  </g>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2" fill="#58756E">
+    <text x="623" y="83">SENSE</text>
+    <text x="843" y="145">CTRL</text>
+    <text x="1103" y="126">MOVE</text>
+    <text x="1016" y="318">LEARN. ITERATE.</text>
+  </g>
+</svg>
