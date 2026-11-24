@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://happyjie.cc">杰的小站 ↗</a>
+  <a href="https://xiaoshuaijie.online">杰的小站 ↗</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/xiaoshuaijie?tab=repositories">全部项目 ↗</a>
   &nbsp; · &nbsp;
